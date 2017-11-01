@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friendfinder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrivera0709/friendfinder.git"
+  },
+  "author": "Misael Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrivera0709/friendfinder/issues"
+  },
+  "homepage": "https://github.com/mrivera0709/friendfinder#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
