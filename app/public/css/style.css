@@ -1,5 +1,7 @@
 .jumbotron {
-	background: #E8D2BB;
+  background: rgb(255, 255, 255);
+  border-radius: 0px;
+  margin-top:40px;
 }
 
 .logo {
@@ -9,7 +11,7 @@
 }
 
 body {
-	background: #E96E82;
+	background: rgb(190, 255, 252);
 }
 
 hr {
